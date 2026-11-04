@@ -1,6 +1,6 @@
 <!-- Replace the remaining personal placeholders before publishing. -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm YuMan 👋</h1>
 <p align="center">
   <strong>iOS Developer</strong><br />
   Objective-C · Swift
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  📍 [City, Country] &nbsp;·&nbsp; 🎓 [School or leave blank] &nbsp;·&nbsp; ✉️ [Contact]
+  📍 Wuhan && Xi'an &nbsp;·&nbsp; 🎓 [School or leave blank] &nbsp;·&nbsp; ✉️ [Contact]
 </p>
 
 ---
